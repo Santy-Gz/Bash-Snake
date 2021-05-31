@@ -13,4 +13,10 @@ Game snake in bash
 > bash snake.sh
 ```
 
+Commando Simple
+
+```
+> pkg install git && git clone https://github.com/Santy-Gz/Bash-Snake && cd Bash-Snake && bash snake.sh
+```
+
 # Enjoy
